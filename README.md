@@ -1,4 +1,4 @@
-# mlx-clay
+# tinyllamas-clay
 A basic script for running an ensemble of TinyLlamas on MLX to annotate an Argilla Dataset
 
 ### Getting started with mlx-clay
