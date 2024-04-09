@@ -1,0 +1,6 @@
+mlx>=0.9.0
+sentencepiece~=0.2.0
+sentence-transformers
+numpy
+argilla~=1.26.1
+tqdm~=4.66.2
