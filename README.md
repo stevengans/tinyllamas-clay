@@ -1,7 +1,7 @@
 # tinyllamas-clay
 A basic script for running an ensemble of TinyLlamas on MLX to annotate an Argilla Dataset
 
-### Getting started with mlx-clay
+### Getting started with tinyllamas-clay
 
 You can use [https://github.com/stevengans/ollama-clay](https://github.com/stevengans/ollama-clay) as a starting point and fill-in and customize the sections required. You will need to create an Argilla dataset and also download TinyLlama weights, see the dependencies for more details:
 
