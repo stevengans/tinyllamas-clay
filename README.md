@@ -10,4 +10,5 @@ You can use [https://github.com/stevengans/ollama-clay](https://github.com/steve
 - Argilla dataset: [link to repo](https://github.com/argilla-io/argilla)
 - `pip install requirements.txt`
 
-Once the above steps are complete you can run ```python tinyllamascanjudge.py```. (You can also adjust the number of TinyLlamas to run)
+Once the above steps are complete you can run ```python tinyllamascanjudge.py``` and/or ```python tinyllamascanredteam.py```. (You can also adjust the number of TinyLlamas to run)
+
